@@ -1,0 +1,23 @@
+{
+  "name": "documenteditor",
+  "version": "0.1.0",
+  "description": "Edits .md Documents",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunan-vara/DocumentEditor.git"
+  },
+  "author": "Varunan Varathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunan-vara/DocumentEditor/issues"
+  },
+  "homepage": "https://github.com/varunan-vara/DocumentEditor#readme",
+  "keywords": [],
+  "devDependencies": {
+    "electron": "^10.1.5"
+  }
+}
